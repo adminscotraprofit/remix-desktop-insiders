@@ -17,7 +17,8 @@ To find out more about Remix IDE - please go to [ethereum/remix-project](https:/
 
 ## About Remix Desktop
 
-### Differences between Remix Desktop & Remix IDE - the web app
+### Differences between 
+ Desktop & Remix IDE - the web app
 
 - You always use the local file system, no need to upload files. Just use your regular local workflow.
 - You can use native terminals ( bash, sh, zsh, powershell, cmd.exe ) and use for example git there like you normally would.
